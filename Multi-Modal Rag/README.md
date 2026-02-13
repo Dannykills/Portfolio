@@ -55,7 +55,6 @@ Multi-Modal RAG/\
 ├── Multi-Modal_RAG.ipynb\
 ├── requirements.txt\
 ├── README.md\
-└── .gitignore
 
 ------------------------------------------------------------------------
 
