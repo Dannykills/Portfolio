@@ -37,6 +37,7 @@ Tokenization is treated as shared infrastructure rather than preprocessing. Cons
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## 🚀 How to Run
